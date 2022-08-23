@@ -7,6 +7,7 @@ trigger:
 - master
 
 pool:
+  name: DESKTOP-UQA9ECC
   vmImage: ubuntu-latest
 
 variables:
